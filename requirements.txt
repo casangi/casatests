@@ -1,0 +1,6 @@
+casatasks
+casatestutils
+casatools
+numpy
+pip
+setuptools
